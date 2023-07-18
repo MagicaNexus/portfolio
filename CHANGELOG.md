@@ -1,5 +1,11 @@
 # @magicanexus/portfolio
 
+## 0.0.3
+
+### Patch Changes
+
+- 314ec91: Test 1
+
 ## 0.0.2
 
 ### Patch Changes
